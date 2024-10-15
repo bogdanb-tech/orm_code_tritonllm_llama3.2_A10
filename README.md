@@ -1,6 +1,6 @@
-# **ORM_stack_tritonllm_llama2-7b_a10_shape**
+# **ORM_stack_tritonllm_llama3.2_models_a10_shape**
 
-# **ORM Stack to deploy an A10* shape with one GPU to test NVIDIA tritonllm inference for llama2-7b-hf**
+# **ORM Stack to deploy an A10* shape with one GPU to test NVIDIA tritonllm inference for llama3.2_models**
 
 - [Instalation](#instalation)
 - [Note](#note)
